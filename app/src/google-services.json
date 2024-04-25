@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365535395250",
+    "project_id": "appfirebase-ddb1e",
+    "storage_bucket": "appfirebase-ddb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365535395250:android:382781f4d93b3dc780b8ab",
+        "android_client_info": {
+          "package_name": "cl.inacap.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmq5llA1PCjp5PZdT7e8cGPbcK9463cjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
